@@ -114,7 +114,7 @@ const BsState = (props) => {
         movie,
         changeMovie,
         images,
-        changeTime,
+        changeImage,
         time,
         changeTime,
         noOfSeat,
